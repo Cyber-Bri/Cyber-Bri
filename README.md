@@ -1,4 +1,7 @@
-<h1>Hi, I'm Brian! 
+<h1>
+  
+<div> Hi, I'm Brian! 
+As a certified cybersecurity professional pursuing a Bachelor’s degree in Cybersecurity and Information Assurance at Western Governors University, I bring a comprehensive skill set to defend, monitor, and enhance organizational security. My academic progress complements my real-world achievements, certifications, and technical expertise, keeping me aligned with the ever-evolving cybersecurity landscape.<div></div>
 
 <h2>👨‍💻  My Cybesecurity  Projects:</h2>
 
